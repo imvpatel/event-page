@@ -1,0 +1,44 @@
+# event-page
+it's based on event page and it's build using HTML and CSS
+
+🔹 event.html (HTML File):-
+  -This file structures a simple event flyer webpage for coding events in 2025.
+
+->DOCTYPE & Metadata:
+  -Declares the document as HTML5 (<!DOCTYPE html>).
+  -Sets character encoding to UTF-8.
+  -Enables responsive design with the viewport meta tag.
+
+->Styling:
+  -Links to an external stylesheet: styles.css (Note: should be renamed to event.css if referencing your uploaded file).
+
+->Header Section:
+  -Displays an image banner sourced from FreeCodeCamp.
+  -Includes a main heading: "BEST CODING EVENTS IN 2025".
+
+->Main Content:
+  -Two content sections:
+   1.Workshop & Talks: Highlights expert-led sessions and talks.
+   2.Networking & Fun: Mentions networking opportunities and fun activities.
+  -A horizontal line (<hr>) separates the sections.
+
+  🔹 event.css (CSS File):-
+     -This file styles the event flyer to create a clean and modern look.
+ • Body Styling:
+  - Centered content (margin: @ auto), with padding on top.
+  - Width is 80% of the viewport.
+  - Light grey background and centralized text.
+  - Font: Arial, sans-serif.
+    
+ • Header Styling:
+  - Image scales to container width with maintained aspect ratio.
+  - H1 styled with margin, font size, and dark color.
+    
+ • Section Styling:
+  - White background, padding, and rounded corners.
+  - Shadow effect gives a card-like appearance.
+  - Consistent margins and heading color.
+    
+ • Horizontal Rule ( shr>):
+  - Styled with a 90% width and light gray border.
+  
